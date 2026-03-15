@@ -1,0 +1,1 @@
+iconutil -c icns icon.iconset -o ./RussianPhonetic.bundle/Contents/Resources/Russian.icns

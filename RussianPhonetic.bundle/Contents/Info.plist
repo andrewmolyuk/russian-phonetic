@@ -8,6 +8,10 @@
 	<string>RussianPhonetic</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>CFBundleIconFile</key>
+	<string>Russian.icns</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
 	<key>RussianPhonetic</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
